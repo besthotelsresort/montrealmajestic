@@ -1,0 +1,2 @@
+# montrealmajestic
+Static site: montrealmajestic
